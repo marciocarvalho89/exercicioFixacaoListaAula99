@@ -12,6 +12,8 @@ public class Program {
 
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.print("Testando um novo Commit no GitHub");
+
 		System.out.print("How many employees will be registered? ");
 		int quantity = sc.nextInt();
 		System.out.println();
